@@ -1,0 +1,42 @@
+01
+Cities
+Their compact size means that Swiss cities embody quality of life and urban flair. You’ll find well-preserved historical centres, modern architectural masterpieces and a vast number of green spaces – all within easy reach.
+
+02
+Summer holiday destinations
+Whether you are looking for charming cities, nature parks, breathtaking mountain landscapes or sparkling lakes. Whether Mediterranean or Alpine, Switzerland offers unique destinations that will make your summer vacation unforgettable. Let yourself be inspired by the diversity of Swiss resorts.
+
+03
+Winter sports resorts
+We have our snow-capped peaks to thank for making Switzerland one of the world’s most popular travel destinations. Up until this very day, our mountains still captivate skiers, snowboarders, tobogganers and other winter sports enthusiasts.
+
+04
+Regions
+Few other country bring together so many different types of terrain in such a small area. Switzerland is a fascinating destination with plenty of Mediterranean flair, impressive alpine mountain ranges, idyllic countryside, magnificent lakes and rivers, urban regions and big city attractions.
+
+05
+The 8 Best Wellness Destinations In Switzerland
+At Switzerland's 8 certified Wellness destinations, a holistic approach to health is not just a philosophy but a lifestyle.
+
+06
+Carfree-destinations
+Saunter through our tranquil, car-free resorts. And soak up the relaxed atmosphere. You’ll find all the information on Switzerland’s car-free tourist resorts.
+
+07
+Mountains & Glaciers
+Marvel at spectacular views of the Swiss mountains and discover the wonderful glaciers.
+
+08
+Waters
+Switzerland is, quite simply, the water tower of Europe. The biggest rivers in Europe have their sources in Switzerland. Lakes, rivers, streams, waterfalls: there's plenty to enjoy both in and on the water.
+
+
+0. 동작 확인하기
+https://xd.adobe.com/view/5f68302d-e76e-4d2d-ba2b-977ba52a6519-0a3b/
+
+1. psd 파일 만들기
+768*1024
+* XD 자동애니메이트 기능을 생각하며 레이어 만들고 직접 정리하기
+
+2. xd 최종 구현
+* 모든 동작에 구멍이 없이 올바르게 동작되어야함
